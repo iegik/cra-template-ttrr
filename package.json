@@ -1,0 +1,28 @@
+{
+  "name": "cra-template-ttrr",
+  "version": "1.2.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "tailwind",
+    "react-router"
+  ],
+  "description": "The base TypeScript template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iegik/cra-template-ttrr.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "bugs": {
+    "url": "https://github.com/iegik/cra-template-ttrr/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
